@@ -1,0 +1,7 @@
+{
+  "homeServerUrl": "https://matrix.your-homeserver.org",
+  "accessToken": "youraccesstokencanbeobtainedthroughriot",
+  "storage": "config/bot.json",
+  "ownid": "@username_of_your_bot:matrix.your-homeserver.org"
+}
+
